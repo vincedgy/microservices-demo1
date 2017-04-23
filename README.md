@@ -1,8 +1,5 @@
-Microservices demo
+Microservices demo #1
 =====================
-
-* Author : V. Dagoury
-* Creation : 2017-04-23
 * System used : Mac OSx
 
 # Presentation
