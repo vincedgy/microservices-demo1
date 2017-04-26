@@ -4,7 +4,7 @@ Microservices demo #1
 
 # Presentation
 
-The application developped for this DEMO is a WebApp for managing business assets stored in a SQL db throug a Web Application that receive messages from a queue. The whole architecture purpose is to build microservices with SpringBoot (and Angular2 for Web Front End).
+The application developped for this DEMO is a WebApp for managing business assets stored in a SQL db, using a Web Application that also receives messages from a messaging queuing system. The whole architecture purpose is to build microservices with SpringBoot (and Angular2 for Web Front End).
 
 See Archi.pdf for an overview of the architecture.
 
